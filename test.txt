@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from local
+=======
+Hello from github
+>>>>>>> 0a902283346a5bfcc0028aebd31fe4fb04018824
